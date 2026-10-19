@@ -8,6 +8,7 @@ Static GitHub Pages site. Publish main branch from the repository root.
 - Chase Sapphire: /chase/
 - Chase Freedom: /chase-freedom/
 - Rakuten: /rakuten/
+- Amex Hilton Honors: /amex-hilton/ (current rewards and terms are shown by Amex)
 
 GA4: G-NRY1WVZK21. Events: page_view, copy_invite_code (Muse), copy_referral_link, click_signup_link. Platform and program identify offers; these events are not confirmed applications or rewards.
 
