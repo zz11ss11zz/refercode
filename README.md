@@ -58,3 +58,11 @@ This page contains a personal referral code. The code owner may receive referral
 ---
 
 **Muse AI invite code:** `OSIQO1` · [Open the referral guide](https://zz11ss11zz.github.io/muse-ai-invite/)
+
+## Referral directory
+
+Browse [all offers](https://zz11ss11zz.github.io/muse-ai-invite/codes/) or the [Chase guide](https://zz11ss11zz.github.io/muse-ai-invite/codes/chase/). The original Muse URL is preserved.
+
+Chase terms checked against the supplied official referral page on 2026-10-19. Recheck the offer before updating amounts. Directory files live in `codes/`; no build step is required.
+
+GA4: `G-NRY1WVZK21`. `click_signup_link` includes `platform` (muse/chase) and `link_location`. Muse uses `copy_invite_code`; Chase uses `copy_referral_link` only after successful copying. Page paths also distinguish the programs. Events measure actions, not approvals or rewards.
